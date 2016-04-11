@@ -21,7 +21,7 @@
 #include "application.h"
 #include "stdarg.h"
 
-#include "AP_OpticalFlow.h" // ArduCopter OpticalFlow Library
+#include "./driver/AP_OpticalFlow.h" // ArduCopter OpticalFlow Library
 
 PRODUCT_ID(PLATFORM_ID);
 PRODUCT_VERSION(2);

@@ -1,7 +1,7 @@
 #ifndef AP_OPTICALFLOW_H
 #define AP_OPTICALFLOW_H
 
-#include "vector3.h"
+#include "../util/vector3.h"
 
 /*
 	AP_OpticalFlow.cpp - OpticalFlow Base Class for Ardupilot Mega
